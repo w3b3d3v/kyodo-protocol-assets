@@ -13,11 +13,14 @@ https://www.figma.com/file/F4ZdyaBpDjFw8l21IsTmIO/Ky%C5%8Dd%C5%8D-Protocol?type=
 ### Main tabs (Figma)
 
 - Logo
-- Design System (draft)
+- Design System (work in progress)
 - Banners
 - Website
+- App UI
 
 ### Brainstorming and development tabs (Figma)
 
+- Wireframes
+- Finity Icons
 - Create
 - Export
