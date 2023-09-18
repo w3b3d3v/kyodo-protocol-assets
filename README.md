@@ -12,15 +12,36 @@ https://www.figma.com/file/F4ZdyaBpDjFw8l21IsTmIO/Ky%C5%8Dd%C5%8D-Protocol?type=
 
 ### Main tabs (Figma)
 
-- Logo
-- Design System (work in progress)
-- Banners
-- Website
-- App UI
+#### Logo
+
+All versions of the logo for use (SVG and PNG).
+
+#### Design System
+
+Work in progress.
+
+#### Banners
+
+Twitter/X and Open Graphn banners. Future banners too.
+
+#### Website
+
+Website mockups (home and internals pages).
+
+#### App UI
+
+Application mockups and flow.
 
 ### Brainstorming and development tabs (Figma)
 
-- Wireframes
-- Finity Icons
-- Create
-- Export
+#### Finity Icons
+
+The entire Polygon Finity Icon package.
+
+#### Create
+
+Tab exclusive for brainstorming and creating process. There are no rules here.
+
+#### Export
+
+Export assets tab.
