@@ -22,7 +22,7 @@ Work in progress.
 
 #### Banners
 
-Twitter/X and Open Graphn banners. Future banners too.
+Twitter/X and Open Graph banners. Future banners too.
 
 #### Website
 
@@ -36,11 +36,11 @@ Application mockups and flow.
 
 #### Finity Icons
 
-The entire Polygon Finity Icon package.
+The entire Polygon Finity icons package.
 
 #### Create
 
-Tab exclusive for brainstorming and creating process. There are no rules here.
+Exclusive tab for brainstorming and creating process. There are no rules here.
 
 #### Export
 
